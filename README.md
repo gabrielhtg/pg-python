@@ -1,4 +1,4 @@
-# Playground C
+# Playground Python
 
 This is a repository to store my (non project) programs for pyhton programming language. Feel Free to try it. :laughing:
 
